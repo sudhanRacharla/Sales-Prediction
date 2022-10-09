@@ -1,3 +1,4 @@
 SALES PREDICTION
         
-        This project is about predicting sales of a particular commpany based on their investment on different modes of advertisements. This project is done using linear regression, random forest and 
+        This project is about predicting sales of a particular commpany based on their investment on different modes of advertisements.
+        This project is done using linear regression, random forest and decision tree. All the models data is in models.py file.
