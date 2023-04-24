@@ -14,6 +14,7 @@ Now, i created a machine learning model using 3 different algorithms. They are,
 1. Linear Regression
 2. Random forest
 3. Decision Tree
+
 models.py file has the code for different algorithms.
 graphs.py file has the code for creating the graphs.
 model.pkl is the trained ML model
